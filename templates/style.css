@@ -1,0 +1,77 @@
+.divtopleft{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: left;
+}
+.divtopright{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: right;
+}
+.divbottomleft{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: left;
+  margin-top: 30px;
+}
+.divbottomright{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: right;
+  margin-top: 30px;
+}
+.divmiddletopleft{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: left;
+  margin-top: 30px;
+}
+.divmiddletopright{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: right;
+  margin-top: 30px;
+}
+.divmiddlebottomleft{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: left;
+  margin-top: 30px;
+}
+.divmiddlebottomright{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  width: 400px;
+  height: 250px;
+  float: right;
+  margin-top: 30px;
+}
+
+div{
+  text-align: center;
+}
+.bodycenter{
+  text-align: center;
+}
